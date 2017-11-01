@@ -6,3 +6,5 @@ The app is designed to get the current weather for a specified city via <a href=
 <br>
 <br>
 <img src="https://github.com/KBPsystem777/nodejs-weather-app/blob/development_star/nodejs-weather-app.PNG"></img>
+
+Thanks to <a href="https://twitter.com/BrandonMorelli">@BrandonMorelli</a> for the cool idea!
